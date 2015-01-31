@@ -1,7 +1,5 @@
-/* LICENSED UNDER GPLv3
- * 
- * 
- * THIS IS MY FIRST WORKING BUKKIT PLUGIN
+/*
+ *THIS IS MY FIRST WORKING BUKKIT PLUGIN
  *These comments may be pretty useless for advanced developers
  *but i'll add them for myself 
  */
