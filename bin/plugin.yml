@@ -1,3 +1,8 @@
 name: Mention
 main: Mention.Main
 version: 0.1
+
+commands:
+    mention:
+        description: Mention enable/disable
+        usage: /mention
