@@ -6,3 +6,5 @@ commands:
     mention:
         description: Mention enable/disable
         usage: /mention
+        permission: blmention.toggle
+        permission-message: Kamu tidak memiliki ijin untuk men-toggle-kan mention!

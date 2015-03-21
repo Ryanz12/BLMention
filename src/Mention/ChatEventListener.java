@@ -35,7 +35,7 @@ public class ChatEventListener implements Listener
 							p.damage(0);
 						}
 						else{
-							e.getPlayer().sendMessage("Player "+ChatColor.GOLD+ChatColor.ITALIC+name+ChatColor.RESET+" tidak dapat dimention!");
+							e.getPlayer().sendMessage(ChatColor.GRAY+"Player "+ChatColor.GOLD+ChatColor.ITALIC+name+ChatColor.RESET+ChatColor.GRAY+" tidak dapat dimention!");
 						}
 					}
 				}
